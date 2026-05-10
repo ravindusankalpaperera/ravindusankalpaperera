@@ -1,3 +1,4 @@
+<img width="1200" height="400" alt="github_banner" src="https://github.com/user-attachments/assets/daab5b1d-7741-4540-8d7b-b7d610ff4b98" />
 # 👋 Hi, I'm Ravindu Sankalpa Perera
 
 **Electrical Engineering Graduate • Software Engineering Student • Sri Lanka 🇱🇰**
