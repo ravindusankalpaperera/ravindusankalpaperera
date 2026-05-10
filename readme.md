@@ -18,7 +18,7 @@ I'm a passionate engineer from **Sri Lanka** with a degree in **Electrical Engin
 
 | Degree | Institution | Period |
 |---|---|---|
-| 🟡 **B.Sc. Software Engineering** *(Currently Enrolled)* | British Institute of Engineering & Technology - BIET | 2024 – Present |
+| 🟡 **B.Sc. Software Engineering** *(Currently Enrolled)* | British Institute of Engineering & Technology - BIET | 2026 – Present |
 | ⚡ **B.Eng. Electrical Engineering & Automation** | Hangzhou Dianzi University, China | 2019 – 2023 |
 
 ---
